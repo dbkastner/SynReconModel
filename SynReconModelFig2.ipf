@@ -10,7 +10,7 @@ CONSTANT samplingTm=0.1
 //		The data for Fig 2B (purple) is in wave reserv2
 //		The data for Fig 2B (yellow) is in wave reserv0
 //		The data for Fig 2B (aqua) is in wave reserv1
-//		all the error values averages across repeats are located in a wave with the subscript 'sd'
+//		all the error values averaged across repeats are located in a wave with the subscript 'sd'
 //
 //To recreate Fig 2A run runRecon(0,1,0), it is random, but will eventually create a situation whreby the scaffold degades as in the figure
 //		The data for Fig 2A top (orange) is located in the wave output[0][ ]
