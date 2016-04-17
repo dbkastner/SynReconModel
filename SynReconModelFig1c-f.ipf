@@ -13,7 +13,7 @@ CONSTANT samplingTm=100
 //		The data for Fig 1d are located in waves recon2 (with PSI) and recon0 (without PSI)
 //		The data for Fig 1e are located in waves recon3 (with PSI) and recon5 (without PSI)
 //		The data for Fig 1f are located in waves full1 (with PSI) and full0 (without PSI)
-//		all the error values averages across repeats are located in a wave with the subscript '_sd'
+//		all the error values averaged across repeats are located in a wave with the subscript '_sd'
 function doAll(howMany,new)
 	variable howMany,new
 	variable i
